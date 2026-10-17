@@ -1,19 +1,30 @@
 # Thanh Bui Minh
 
-Purdue University · Web apps and AI tools.
+Software engineering · Full-stack & AI
 
 [Portfolio](https://thanhminh12.github.io/)
 
-### Projects
+## Experience
 
-- **[Detour](https://github.com/ThanhMinh12/Detour)** — group trips, shared expenses, and settlements. [Demo](https://mkmuk8wzzz.us-east-2.awsapprunner.com)
-- **[Fretwork](https://github.com/ThanhMinh12/Fretwork)** — guitar audio to chord-aware sheet music and TAB. [Demo](https://huggingface.co/spaces/ThanhMinh12/Fretwork)
-- **[SceneSeek](https://github.com/ThanhMinh12/SceneSeek)** — search video moments with text, images, and reference clips. [Demo](https://huggingface.co/spaces/ThanhMinh12/SceneSeek)
+**OneKiwi** · Software Engineer Intern · Jun–Aug 2026<br>
+Edge AI, real-time computer vision, and NPU inference optimization.
 
-### Skills
+**Teko Solution** · Software Engineer Intern · Jun–Aug 2025<br>
+AI agents, GPU inference with vLLM, and React developer tools.
 
-**Languages:** Python, Java, C++, TypeScript, SQL  
-**Frameworks:** React, Spring Boot, FastAPI, PyTorch  
-**Tools:** PostgreSQL, AWS, Docker, Git, Linux
+## Skills & Technologies
 
-Previously interned at OneKiwi and Teko Solution. Teaching and research at Purdue.
+**Languages**<br>
+Python · Java · TypeScript · JavaScript · C · C++ · Go · SQL · Bash · Assembly
+
+**Web & Backend**<br>
+React · HTML · CSS · Spring Boot · FastAPI · Node.js
+
+**AI & Machine Learning**<br>
+PyTorch · pandas · vLLM · LangChain · Google ADK · Ollama · RAG · AI agents · Computer vision
+
+**Data & Infrastructure**<br>
+PostgreSQL · Redis · AWS · Docker · Linux · Git · CI/CD
+
+**APIs & Systems**<br>
+REST APIs · gRPC · Protobuf · MCP servers · Microservices
