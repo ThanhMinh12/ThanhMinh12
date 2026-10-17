@@ -1,9 +1,11 @@
 # Hi, I'm Thanh 👋
 
+CS + Math @ Purdue
+
 I build full-stack apps and AI systems.
 
-- 💻 Previously **SWE Intern @ OneKiwi** — edge AI & NPU inference
-- 🤖 Previously **SWE Intern @ Teko Solution** — AI agents & GPU inference
+- SWE Intern @ OneKiwi - Edge AI
+- SWE Intern @ Teko Solution - Sales AI Agents
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_my_site-2563EB?style=for-the-badge)](https://thanhminh12.github.io/)
 
